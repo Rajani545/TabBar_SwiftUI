@@ -2,5 +2,6 @@
 Implemented a custom tab with animations in swiftUI
 
 
-https://github.com/user-attachments/assets/1e11a8a2-6f02-45f3-9f00-83dae9b9b533
 
+
+![TabBar](https://github.com/user-attachments/assets/5f7cefd3-0aff-457f-a71b-2a8905d71436)
